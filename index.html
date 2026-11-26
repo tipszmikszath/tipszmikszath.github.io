@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TipszMikszáth – Fogadóklub</title>
+<meta name="description" content="Az öreg úr Fogadóklubja: minden tipp a meccs ELŐTT kerül ki, a vesztes is. Ingyenes Telegram-csoport.">
+<meta property="og:title" content="TipszMikszáth – Fogadóklub">
+<meta property="og:description" content="Minden tipp a meccs ELŐTT. A vesztes is. Nézd meg az eredményeket, szépítés nélkül.">
+<meta property="og:image" content="oreg_ur.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+:root{--paper:#efe3c4;--paper2:#e6d6b0;--ink:#34221a;--soft:#6b5643;--gold:#96691e;--red:#a52828;--green:#1f7a45;--blue:#2a9dd8;--line:#c9b48a}
+*{box-sizing:border-box}
+html{background:#2b2018}
+body{margin:0;font-family:Lora,Georgia,"Times New Roman",serif;color:var(--ink);line-height:1.5;
+  background:radial-gradient(ellipse at 50% 30%,var(--paper) 0%,var(--paper2) 70%,#d8c497 100%);min-height:100vh}
+.wrap{max-width:680px;margin:0 auto;padding:0 20px 40px}
+.stripe{height:10px;background:linear-gradient(var(--gold) 33%,#faf8f0 33% 66%,var(--gold) 66%)}
+header{text-align:center;padding:34px 0 10px}
+.portrait{width:150px;height:176px;border-radius:50%;object-fit:cover;border:4px solid var(--gold);box-shadow:0 6px 18px rgba(60,40,20,.35)}
+h1{font-size:2.3rem;margin:14px 0 2px;letter-spacing:.5px}
+.tag{font-style:italic;color:var(--soft);margin:0 0 18px;font-size:1.1rem}
+.promise{font-size:1.35rem;font-weight:700;margin:6px 0 2px}
+.promise b{color:var(--red)}
+.cta{display:block;margin:22px auto 6px;max-width:440px;background:var(--blue);color:#fff;text-decoration:none;font-family:system-ui,Segoe UI,Arial,sans-serif;
+  font-weight:800;font-size:1.2rem;padding:18px 20px;border-radius:60px;text-align:center;box-shadow:0 5px 14px rgba(20,80,120,.35)}
+.cta:active{transform:translateY(1px)}
+.free{font-size:.95rem;color:var(--soft);text-align:center}
+section{margin-top:34px}
+h2{font-size:1.5rem;border-bottom:2px solid var(--line);padding-bottom:6px;margin-bottom:14px}
+.steps{list-style:none;padding:0;margin:0;counter-reset:s}
+.steps li{position:relative;padding:4px 0 14px 54px;font-size:1.08rem}
+.steps li::before{counter-increment:s;content:counter(s);position:absolute;left:0;top:0;width:38px;height:38px;border-radius:50%;background:var(--red);color:#fff;
+  font:700 1.15rem system-ui,Arial,sans-serif;display:flex;align-items:center;justify-content:center}
+.letter{background:rgba(255,250,235,.55);border:1px solid var(--line);border-radius:14px;padding:18px 20px;font-size:1.08rem}
+.letter .sig{text-align:right;font-style:italic;color:var(--gold);margin:6px 0 0}
+.tabs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}
+.tabs button{font:600 1rem Lora,Georgia,serif;border:2px solid var(--gold);background:transparent;color:var(--ink);padding:6px 14px;border-radius:30px;cursor:pointer}
+.tabs button.on{background:var(--gold);color:#fff}
+.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.card{background:rgba(255,250,235,.7);border:1px solid var(--line);border-radius:12px;padding:12px 8px;text-align:center}
+.card .n{font-size:1.9rem;font-weight:700;line-height:1.1}
+.card .l{font-size:.85rem;color:var(--soft)}
+.money{margin-top:12px;background:rgba(255,250,235,.7);border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-size:1.05rem}
+.money .big{font-size:1.6rem;font-weight:700}
+.pos{color:var(--green)} .neg{color:var(--red)}
+.note{font-size:.9rem;color:var(--soft);font-style:italic;margin-top:8px}
+.day{margin-top:16px;font-weight:700;color:var(--gold);font-size:1rem}
+.tip{display:grid;grid-template-columns:28px 1fr auto;gap:8px;align-items:center;padding:9px 0;border-bottom:1px dashed var(--line)}
+.tip .r{font-size:1.25rem;text-align:center}
+.tip .m{font-weight:600;font-size:1rem}
+.tip .d{font-size:.88rem;color:var(--soft)}
+.tip .o{font:700 1.05rem system-ui,Arial,sans-serif;text-align:right;white-space:nowrap}
+.more{display:block;margin:16px auto 0;font:600 1rem Lora,Georgia,serif;background:transparent;border:2px solid var(--ink);color:var(--ink);padding:8px 18px;border-radius:30px;cursor:pointer}
+footer{margin-top:40px;font-size:.88rem;color:var(--soft);text-align:center;border-top:2px solid var(--line);padding-top:16px}
+footer b{color:var(--ink)}
+@media(max-width:420px){h1{font-size:1.9rem}.card .n{font-size:1.5rem}.promise{font-size:1.18rem}}
+</style>
+</head>
+<body>
+<div class="stripe"></div>
+<div class="wrap">
+<header>
+  <img class="portrait" src="oreg_ur.jpg" alt="Az öreg úr">
+  <h1>TipszMikszáth</h1>
+  <p class="tag">Az öreg úr Fogadóklubja</p>
+  <p class="promise">Minden tipp a meccs <b>ELŐTT</b> kerül ki.</p>
+  <p class="promise"><b>A vesztes is.</b></p>
+  <a class="cta" href="https://t.me/+ynS7cEfSkHU0MDlk" target="_blank" rel="noopener">Belépek a klubba</a>
+  <p class="free">Ingyenes Telegram-csoport · <span id="hero-n"></span></p>
+</header>
+
+<section>
+  <h2>Pár szó az öreg úrtól</h2>
+  <div class="letter">
+    <p>Kedves Barátom!</p>
+    <p>Nem ígérek gazdagságot, és nem írom ki, hogy „100% TUTI”. Ilyen nincs, aki mást mond, az hazudik.</p>
+    <p>Amit ígérek: minden tippem a meccs előtt kerül ki, szorzóval és kezdési idővel. Másnap megmondom, mi jött be és mi nem. Itt lent pedig bárki megnézheti az összeset, szépítés nélkül.</p>
+    <p class="sig">Szívélyes üdvözlettel: egy öreg úr</p>
+  </div>
+</section>
+
+<section>
+  <h2>Hogyan működik?</h2>
+  <ol class="steps">
+    <li><b>Jön a tipp a Telegramon</b>, a meccs előtt: meccs, kezdés, tipp, szorzó és Tippmix-link.</li>
+    <li><b>Egy kattintás</b>, és a Tippmixen vagy, nem kell keresgélni.</li>
+    <li><b>Nézd meg a szorzót.</b> Ha legalább annyi, mint az „Amin még rakható”, megéri. Ha kevesebb, hagyd ki.</li>
+    <li><b>Minden reggel 9-kor összesítő:</b> mi jött be és mi nem. Ugyanez kerül ide, erre az oldalra is.</li>
+  </ol>
+</section>
+
+<section>
+  <h2>Az eredmények, szépítés nélkül</h2>
+  <div class="tabs" id="tabs"></div>
+  <div class="cards">
+    <div class="card"><div class="n" id="c-n">–</div><div class="l">lezárt tipp</div></div>
+    <div class="card"><div class="n pos" id="c-w">–</div><div class="l">bejött</div></div>
+    <div class="card"><div class="n neg" id="c-l">–</div><div class="l">nem jött be</div></div>
+  </div>
+  <div class="money" id="money"></div>
+  <p class="note" id="note"></p>
+  <div id="list"></div>
+  <button class="more" id="more" hidden>Korábbi tippek</button>
+</section>
+
+<section style="text-align:center">
+  <a class="cta" href="https://t.me/+ynS7cEfSkHU0MDlk" target="_blank" rel="noopener">Belépek a klubba</a>
+  <p class="free">A következő tippek már csak a csoportban jelennek meg, a meccs előtt.</p>
+</section>
+
+<footer>
+  <p><b>18+</b> · A fogadás szerencsejáték: nyereség nem garantálható. Csak annyit tegyél meg, amennyit nyugodt szívvel elveszíthetsz. Ne próbáld „visszanyerni” a veszteséget.</p>
+  <p>Az oldal automatikusan frissül. Utolsó frissítés: <span id="upd">–</span></p>
+  <p>Az eredmények a valódi Telegram-tippekből készülnek. A forintos összegek példák: mintha minden tippre ugyanannyit tettél volna.</p>
+</footer>
+</div>
+<div class="stripe"></div>
+
+<script>
+const ft=x=>{const n=Math.round(Math.abs(x)).toString().replace(/\B(?=(\d{3})+(?!\d))/g,' ');return (x<0?'−':'')+n+' Ft'};
+const HONAP=['január','február','március','április','május','június','július','augusztus','szeptember','október','november','december'];
+const ikon={N:'✅',V:'❌',P:'↩️',FN:'✅',FV:'❌'};
+const felirat={P:'visszajár a tét',FN:'félig nyert',FV:'félig vesztett'};
+let D=null, sel='osszes', shown=40;
+function hn(h){const [y,m]=h.split('-');return HONAP[+m-1]+' '+y}
+function render(){
+  const s = sel==='osszes'? D.osszes : D.honapok.find(h=>h.honap===sel);
+  const tips = sel==='osszes'? D.tippek : D.tippek.filter(t=>t.d.startsWith(sel));
+  document.getElementById('c-n').textContent=s.tipp;
+  document.getElementById('c-w').textContent=s.N+s.FN;
+  document.getElementById('c-l').textContent=s.V+s.FV;
+  const cls=s.profit_ft>=0?'pos':'neg', sign=s.profit_ft>0?'+':(s.profit_ft<0?'−':'');
+  document.getElementById('money').innerHTML=
+    `Ha minden tippre <b>${ft(D.pelda_tet)}</b>-ot tettél volna:<br>`+
+    `${ft(s.tet_ft)} tétből <b>${ft(s.vissza_ft)}</b> jött vissza.<br>`+
+    `<span class="big ${cls}">${sign}${ft(Math.abs(s.profit_ft))}</span>`+
+    (s.P? `<div class="note">${s.P} tipp tétje visszajárt (döntetlen hendikep/gólszám).</div>`:'');
+  document.getElementById('note').textContent = D.fuggo? `${D.fuggo} már lejátszott meccs eredménye még rögzítésre vár, hamarosan bekerül.`:'';
+  const L=document.getElementById('list'); L.innerHTML=''; let last='';
+  tips.slice(0,shown).forEach(t=>{
+    if(t.d!==last){last=t.d;const d=document.createElement('div');d.className='day';
+      const dd=new Date(t.d+'T12:00');d.textContent=dd.toLocaleDateString('hu-HU',{month:'long',day:'numeric',weekday:'long'});L.appendChild(d)}
+    const e=document.createElement('div');e.className='tip';
+    e.innerHTML=`<div class="r">${ikon[t.r]}</div><div><div class="m"></div><div class="d"></div></div><div class="o">${t.o.toFixed(2)}</div>`;
+    e.querySelector('.m').textContent=t.m;
+    e.querySelector('.d').textContent=`${t.s} · ${t.t} · ${t.p}: ${t.tip}`+(felirat[t.r]?` (${felirat[t.r]})`:'');
+    L.appendChild(e);
+  });
+  document.getElementById('more').hidden = tips.length<=shown;
+}
+function tabs(){
+  const T=document.getElementById('tabs'); T.innerHTML='';
+  [['osszes','Összes'],...D.honapok.map(h=>[h.honap,hn(h.honap)])].forEach(([k,l])=>{
+    const b=document.createElement('button');b.textContent=l;if(k===sel)b.className='on';
+    b.onclick=()=>{sel=k;shown=40;tabs();render()};T.appendChild(b)});
+}
+document.getElementById('more').onclick=()=>{shown+=40;render()};
+fetch('data.json?'+Date.now()).then(r=>r.json()).then(d=>{
+  D=d; if(D.honapok.length) sel=D.honapok[0].honap;
+  document.getElementById('upd').textContent=D.frissitve;
+  document.getElementById('hero-n').textContent=`${D.osszes.tipp} nyilvános, lezárt tipp`;
+  tabs(); render();
+}).catch(()=>{document.getElementById('list').textContent='Az eredmények betöltése nem sikerült, próbáld újra később.'});
+</script>
+</body>
+</html>
