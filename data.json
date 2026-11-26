@@ -1,0 +1,834 @@
+{
+ "frissitve": "2026-11-26 10:33",
+ "pelda_tet": 5000,
+ "fuggo": 0,
+ "osszes": {
+  "tipp": 80,
+  "N": 33,
+  "V": 42,
+  "P": 2,
+  "FN": 2,
+  "FV": 1,
+  "egyseg": -1.765,
+  "tet_ft": 400000,
+  "profit_ft": -8825,
+  "vissza_ft": 391175
+ },
+ "honapok": [
+  {
+   "honap": "2026-11",
+   "tipp": 80,
+   "N": 33,
+   "V": 42,
+   "P": 2,
+   "FN": 2,
+   "FV": 1,
+   "egyseg": -1.765,
+   "tet_ft": 400000,
+   "profit_ft": -8825,
+   "vissza_ft": 391175
+  }
+ ],
+ "tippek": [
+  {
+   "d": "2026-11-26",
+   "t": "04:10",
+   "m": "Naoya Honda - Yus. Takahashi",
+   "s": "🎾 Tenisz",
+   "p": "Hendikep (játékszám)",
+   "tip": "Naoya Honda +1,5",
+   "o": 1.87,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "01:30",
+   "m": "J. Kubler - C.E. Overbeck",
+   "s": "🎾 Tenisz",
+   "p": "Hendikep (játékszám)",
+   "tip": "C.E. Overbeck +1,5",
+   "o": 1.84,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "20:45",
+   "m": "Arbroath - Airdrieonians",
+   "s": "⚽ Foci",
+   "p": "Gólszám 2,5",
+   "tip": "Kevesebb, mint 2,5",
+   "o": 2.11,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "11:00",
+   "m": "Kyoto - Pohang",
+   "s": "⚽ Foci",
+   "p": "Ázsiai gólszám 2",
+   "tip": "Kevesebb, mint 2",
+   "o": 2.41,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "00:30",
+   "m": "San Antonio Bulo Bulo - Always Ready La Paz",
+   "s": "⚽ Foci",
+   "p": "Gólszám 3,5",
+   "tip": "Kevesebb, mint 3,5",
+   "o": 1.84,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-22",
+   "t": "20:00",
+   "m": "Bjerringbro-Silkeborg - GOG",
+   "s": "🤾 Kézilabda",
+   "p": "Gólszám 64,5",
+   "tip": "Több, mint 64,5",
+   "o": 1.92,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-22",
+   "t": "18:00",
+   "m": "Fibwi Palma - Cordoba",
+   "s": "🏀 Kosárlabda",
+   "p": "Mérkőzés győztese",
+   "tip": "Fibwi Palma",
+   "o": 1.79,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-22",
+   "t": "17:30",
+   "m": "Sambenedettese - Perugia",
+   "s": "⚽ Foci",
+   "p": "Gólszám 2,5",
+   "tip": "Kevesebb, mint 2,5",
+   "o": 1.91,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-22",
+   "t": "15:00",
+   "m": "Slask Wroclaw - Trefl Sopot",
+   "s": "🏀 Kosárlabda",
+   "p": "Hendikep",
+   "tip": "Slask Wroclaw -23,5",
+   "o": 1.9,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-22",
+   "t": "13:00",
+   "m": "Guangzhou - Hong Kong Bulls",
+   "s": "🏀 Kosárlabda",
+   "p": "Mérkőzés győztese",
+   "tip": "Hong Kong Bulls",
+   "o": 2.18,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-21",
+   "t": "19:00",
+   "m": "Jicin - Lovosice",
+   "s": "🤾 Kézilabda",
+   "p": "Gólszám 63,5",
+   "tip": "Kevesebb, mint 63,5",
+   "o": 1.87,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-21",
+   "t": "16:00",
+   "m": "Savo - Kyky",
+   "s": "🏐 Röplabda",
+   "p": "Mérkőzés győztese",
+   "tip": "Savo",
+   "o": 1.68,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-21",
+   "t": "15:00",
+   "m": "Ynyshir Albions - Llantwit Major",
+   "s": "⚽ Foci",
+   "p": "Mérkőzés győztese (1X2)",
+   "tip": "Llantwit Major",
+   "o": 2.9,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-21",
+   "t": "15:00",
+   "m": "Resovia Rzeszow - Belchatow",
+   "s": "🏐 Röplabda",
+   "p": "Mérkőzés győztese",
+   "tip": "Belchatow",
+   "o": 3.2,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "20:00",
+   "m": "Sindri - Njardvik",
+   "s": "🏀 Kosárlabda",
+   "p": "Hendikep",
+   "tip": "Sindri +4,5",
+   "o": 1.87,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "17:30",
+   "m": "Olsztyn - GKS Katowice",
+   "s": "🏐 Röplabda",
+   "p": "Mérkőzés győztese",
+   "tip": "GKS Katowice",
+   "o": 2.75,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "20:15",
+   "m": "Alftanes - Grindavik",
+   "s": "🏀 Kosárlabda",
+   "p": "Mérkőzés győztese",
+   "tip": "Grindavik",
+   "o": 2.59,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "01:00",
+   "m": "Orlando - Philadelphia",
+   "s": "🏀 Kosárlabda",
+   "p": "Mérkőzés győztese",
+   "tip": "Orlando",
+   "o": 2.0,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-18",
+   "t": "20:00",
+   "m": "Trento - Neptunas Klaipeda",
+   "s": "🏀 Kosárlabda",
+   "p": "Hendikep",
+   "tip": "Trento -5,5",
+   "o": 1.89,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-18",
+   "t": "18:00",
+   "m": "OFI - Giesen",
+   "s": "🏐 Röplabda",
+   "p": "Mérkőzés győztese",
+   "tip": "OFI",
+   "o": 2.76,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-18",
+   "t": "13:30",
+   "m": "Tolmin - Brinje Grosuplje",
+   "s": "⚽ Foci",
+   "p": "Ázsiai hendikep",
+   "tip": "Brinje Grosuplje -1,75",
+   "o": 2.13,
+   "r": "FN"
+  },
+  {
+   "d": "2026-11-18",
+   "t": "13:00",
+   "m": "Ningbo Rockets - Liaoning",
+   "s": "🏀 Kosárlabda",
+   "p": "Mérkőzés győztese",
+   "tip": "Ningbo Rockets",
+   "o": 2.67,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "20:00",
+   "m": "Rostock - Hapoel Jerusalem",
+   "s": "🏀 Kosárlabda",
+   "p": "Mérkőzés győztese",
+   "tip": "Rostock",
+   "o": 4.0,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "19:04",
+   "m": "Södertälje - Boras",
+   "s": "🏀 Kosárlabda",
+   "p": "Mérkőzés győztese",
+   "tip": "Boras",
+   "o": 2.0,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-15",
+   "t": "17:00",
+   "m": "Uppsala - Södertelge",
+   "s": "🏐 Röplabda",
+   "p": "Mérkőzés győztese",
+   "tip": "Uppsala",
+   "o": 3.15,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-15",
+   "t": "16:00",
+   "m": "Basel - Sierre",
+   "s": "🏒 Jégkorong",
+   "p": "Mérkőzés győztese (1X2)",
+   "tip": "Basel",
+   "o": 4.0,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-15",
+   "t": "16:00",
+   "m": "Metalurgist Pernik - Montana",
+   "s": "🏐 Röplabda",
+   "p": "Mérkőzés győztese",
+   "tip": "Metalurgist Pernik",
+   "o": 1.86,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-15",
+   "t": "05:35",
+   "m": "Shimane - Tochigi Utsunomiya Brex",
+   "s": "🏀 Kosárlabda",
+   "p": "Mérkőzés győztese",
+   "tip": "Tochigi Utsunomiya Brex",
+   "o": 1.8,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-15",
+   "t": "03:50",
+   "m": "Ajeet Rai - P. Marinkov",
+   "s": "🎾 Tenisz",
+   "p": "Mérkőzés győztese",
+   "tip": "Ajeet Rai",
+   "o": 3.3,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-15",
+   "t": "03:00",
+   "m": "Max. Zhukov - Tak. Kumasaka",
+   "s": "🎾 Tenisz",
+   "p": "Mérkőzés győztese",
+   "tip": "Max. Zhukov",
+   "o": 2.21,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-15",
+   "t": "01:05",
+   "m": "Lehigh Valley - Charlotte",
+   "s": "🏒 Jégkorong",
+   "p": "Mérkőzés győztese (1X2)",
+   "tip": "Lehigh Valley",
+   "o": 2.31,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "20:00",
+   "m": "Bergischer - Eisenach",
+   "s": "🤾 Kézilabda",
+   "p": "Gólszám 57,5",
+   "tip": "Kevesebb, mint 57,5",
+   "o": 2.0,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "19:00",
+   "m": "Brno - Frydek-Mistek",
+   "s": "🤾 Kézilabda",
+   "p": "Gólszám 61,5",
+   "tip": "Kevesebb, mint 61,5",
+   "o": 1.87,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "18:00",
+   "m": "Ploiesti - Galati",
+   "s": "🏀 Kosárlabda",
+   "p": "Mérkőzés győztese",
+   "tip": "Ploiesti",
+   "o": 2.52,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "18:00",
+   "m": "Odolena Voda - Liberec",
+   "s": "🏐 Röplabda",
+   "p": "Mérkőzés győztese",
+   "tip": "Odolena Voda",
+   "o": 2.69,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "17:30",
+   "m": "Gubbio - Grosseto",
+   "s": "⚽ Foci",
+   "p": "Mérkőzés győztese (1X2)",
+   "tip": "Grosseto",
+   "o": 2.32,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "16:30",
+   "m": "Hatta - Al-Ain (UAE)",
+   "s": "⚽ Foci",
+   "p": "Gólszám 3,5",
+   "tip": "Kevesebb, mint 3,5",
+   "o": 2.01,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "16:00",
+   "m": "AEK Athén - Doxa Lefkada",
+   "s": "🏀 Kosárlabda",
+   "p": "Hendikep",
+   "tip": "Doxa Lefkada +6,5",
+   "o": 1.93,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "15:00",
+   "m": "Torun - Trefl Sopot",
+   "s": "🏀 Kosárlabda",
+   "p": "Hendikep",
+   "tip": "Torun -9,5",
+   "o": 1.98,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "14:30",
+   "m": "Ibb Spor - Gaziantep Genclik Spor",
+   "s": "🏐 Röplabda",
+   "p": "Mérkőzés győztese",
+   "tip": "Gaziantep Genclik Spor",
+   "o": 2.3,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "14:00",
+   "m": "Aszterasz Tripoli 2 - PAOK 2",
+   "s": "⚽ Foci",
+   "p": "Mérkőzés győztese (1X2)",
+   "tip": "PAOK 2",
+   "o": 3.95,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "14:00",
+   "m": "HIF Karlskrona - Ystad IF",
+   "s": "🤾 Kézilabda",
+   "p": "Gólszám 60,5",
+   "tip": "Több, mint 60,5",
+   "o": 1.88,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "09:05",
+   "m": "Tokyo Alvark - Hiroshima",
+   "s": "🏀 Kosárlabda",
+   "p": "Mérkőzés győztese",
+   "tip": "Hiroshima",
+   "o": 2.1,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "07:05",
+   "m": "Mikawa Seahorses - Toyama",
+   "s": "🏀 Kosárlabda",
+   "p": "Pontszám 171,5",
+   "tip": "Több, mint 171,5",
+   "o": 1.89,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "01:00",
+   "m": "Ecuador - Costa Rica",
+   "s": "⚽ Foci",
+   "p": "Ázsiai hendikep",
+   "tip": "Ecuador -1,75",
+   "o": 2.18,
+   "r": "FN"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "01:00",
+   "m": "Montserrat - Nicaragua",
+   "s": "⚽ Foci",
+   "p": "Ázsiai gólszám 3",
+   "tip": "Kevesebb, mint 3",
+   "o": 1.96,
+   "r": "P"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "20:00",
+   "m": "Montpellier - Dunkerque",
+   "s": "🤾 Kézilabda",
+   "p": "Gólszám 59,5",
+   "tip": "Kevesebb, mint 59,5",
+   "o": 1.93,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "19:00",
+   "m": "Nis 1996 - Vojvodina",
+   "s": "🏀 Kosárlabda",
+   "p": "Mérkőzés győztese",
+   "tip": "Vojvodina",
+   "o": 1.91,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "18:30",
+   "m": "Dunav Ruse - CSZKA Szófia",
+   "s": "🏐 Röplabda",
+   "p": "Mérkőzés győztese",
+   "tip": "Dunav Ruse",
+   "o": 3.15,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "16:00",
+   "m": "Laura Samson - E. Mandlik",
+   "s": "🎾 Tenisz",
+   "p": "Mérkőzés győztese",
+   "tip": "E. Mandlik",
+   "o": 2.8,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "11:15",
+   "m": "Kyoto - Ibaraki",
+   "s": "🏀 Kosárlabda",
+   "p": "Hendikep",
+   "tip": "Kyoto -2,5",
+   "o": 1.97,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "01:30",
+   "m": "Curacao - Panama",
+   "s": "⚽ Foci",
+   "p": "Mérkőzés győztese (1X2)",
+   "tip": "Curacao",
+   "o": 3.5,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "23:30",
+   "m": "Caxias do Sul - Pato",
+   "s": "🏀 Kosárlabda",
+   "p": "Hendikep",
+   "tip": "Caxias do Sul -4,5",
+   "o": 1.86,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "23:00",
+   "m": "Aruba - Martinique",
+   "s": "⚽ Foci",
+   "p": "Ázsiai hendikep",
+   "tip": "Martinique -1",
+   "o": 2.03,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "20:15",
+   "m": "Stjarnan - Keflavik",
+   "s": "🏀 Kosárlabda",
+   "p": "Hendikep",
+   "tip": "Stjarnan -4,5",
+   "o": 1.87,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "19:00",
+   "m": "Navalcarnero - Betis",
+   "s": "⚽ Foci",
+   "p": "Ázsiai gólszám 3",
+   "tip": "Kevesebb, mint 3",
+   "o": 2.51,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "16:00",
+   "m": "Ghána - Szomália",
+   "s": "⚽ Foci",
+   "p": "Ázsiai gólszám 3",
+   "tip": "Kevesebb, mint 3",
+   "o": 2.18,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "11:05",
+   "m": "Toyama - Osaka",
+   "s": "🏀 Kosárlabda",
+   "p": "Hendikep",
+   "tip": "Toyama -11,5",
+   "o": 2.01,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "00:00",
+   "m": "Utica - Belleville",
+   "s": "🏒 Jégkorong",
+   "p": "Mérkőzés győztese (1X2)",
+   "tip": "Belleville",
+   "o": 2.43,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "20:30",
+   "m": "Oostende - Levice",
+   "s": "🏀 Kosárlabda",
+   "p": "Hendikep",
+   "tip": "Oostende -8,5",
+   "o": 1.95,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "16:00",
+   "m": "Podbrezova - Zlate Moravce",
+   "s": "⚽ Foci",
+   "p": "Ázsiai hendikep",
+   "tip": "Zlate Moravce +1,75",
+   "o": 2.12,
+   "r": "FV"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "13:00",
+   "m": "Nove Zamky - Zemplin Michalovce",
+   "s": "⚽ Foci",
+   "p": "Ázsiai gólszám 3",
+   "tip": "Kevesebb, mint 3",
+   "o": 2.21,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "11:05",
+   "m": "Tochigi Utsunomiya Brex - Kyoto",
+   "s": "🏀 Kosárlabda",
+   "p": "Pontszám 160,5",
+   "tip": "Kevesebb, mint 160,5",
+   "o": 1.92,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "11:05",
+   "m": "Akita - Ibaraki",
+   "s": "🏀 Kosárlabda",
+   "p": "Hendikep",
+   "tip": "Akita +7,5",
+   "o": 1.9,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "03:00",
+   "m": "Utah - Miami",
+   "s": "🏀 Kosárlabda",
+   "p": "Hendikep",
+   "tip": "Miami -8,5",
+   "o": 2.06,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "20:00",
+   "m": "Rostock - Cedevita Olimpija Ljublja",
+   "s": "🏀 Kosárlabda",
+   "p": "Pontszám 162,5",
+   "tip": "Több, mint 162,5",
+   "o": 1.91,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "01:30",
+   "m": "Aurora - Universitario de Vinto",
+   "s": "⚽ Foci",
+   "p": "Mérkőzés győztese",
+   "tip": "Universitario de Vinto",
+   "o": 4.0,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "17:00",
+   "m": "Max Houkes - Tom Gentzsch",
+   "s": "🎾 Tenisz",
+   "p": "Mérkőzés győztese",
+   "tip": "Max Houkes",
+   "o": 3.6,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "16:00",
+   "m": "Polona Hercog - Varvara Lepchenko",
+   "s": "🎾 Tenisz",
+   "p": "Mérkőzés győztese",
+   "tip": "Varvara Lepchenko",
+   "o": 2.27,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "12:00",
+   "m": "Johannus Monday - Georgii Kravchenko",
+   "s": "🎾 Tenisz",
+   "p": "Mérkőzés győztese",
+   "tip": "Johannus Monday",
+   "o": 2.15,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "11:15",
+   "m": "Kyoto Hannaryz - Levanga Hokkaido",
+   "s": "🏀 Kosárlabda",
+   "p": "Mérkőzés győztese",
+   "tip": "Levanga Hokkaido",
+   "o": 1.71,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-08",
+   "t": "21:00",
+   "m": "Juventud Antoniana - Club Cipolletti",
+   "s": "⚽ Foci",
+   "p": "Mérkőzés győztese",
+   "tip": "Club Cipolletti",
+   "o": 3.25,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-08",
+   "t": "20:45",
+   "m": "Lens - Marseille",
+   "s": "⚽ Foci",
+   "p": "Ázsiai gólszám 3",
+   "tip": "Kevesebb, mint 3",
+   "o": 2.01,
+   "r": "P"
+  },
+  {
+   "d": "2026-11-08",
+   "t": "19:45",
+   "m": "Aucas - Independiente del Valle",
+   "s": "⚽ Foci",
+   "p": "Ázsiai gólszám 2",
+   "tip": "Kevesebb, mint 2",
+   "o": 2.21,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-08",
+   "t": "17:40",
+   "m": "Al Sahel - Kuwait SC",
+   "s": "⚽ Foci",
+   "p": "Gólszám 3,5",
+   "tip": "Kevesebb, mint 3,5",
+   "o": 1.95,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-08",
+   "t": "14:00",
+   "m": "JS El Biar - MC Alger",
+   "s": "⚽ Foci",
+   "p": "Ázsiai hendikep",
+   "tip": "MC Alger -0,75",
+   "o": 2.16,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-08",
+   "t": "13:30",
+   "m": "Petrojet - Delphi",
+   "s": "⚽ Foci",
+   "p": "Gólszám 3,5",
+   "tip": "Több, mint 3,5",
+   "o": 2.51,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-08",
+   "t": "11:00",
+   "m": "Melinda Biro - Sofia Barhacova",
+   "s": "🎾 Tenisz",
+   "p": "Mérkőzés győztese",
+   "tip": "Sofia Barhacova",
+   "o": 1.8,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-08",
+   "t": "10:00",
+   "m": "Adrien Gobat - Alejo Sanchez Quilez",
+   "s": "🎾 Tenisz",
+   "p": "Mérkőzés győztese",
+   "tip": "Adrien Gobat",
+   "o": 1.89,
+   "r": "N"
+  },
+  {
+   "d": "2026-11-08",
+   "t": "09:00",
+   "m": "Odysseas Geladaris - Gabriel Ghetu",
+   "s": "🎾 Tenisz",
+   "p": "Mérkőzés győztese",
+   "tip": "Odysseas Geladaris",
+   "o": 3.6,
+   "r": "N"
+  }
+ ]
+}
