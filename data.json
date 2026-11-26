@@ -1,35 +1,45 @@
 {
- "frissitve": "2026-11-26 20:15",
+ "frissitve": "2026-11-26 21:15",
  "pelda_tet": 5000,
  "fuggo": 0,
  "osszes": {
-  "tipp": 80,
-  "N": 33,
+  "tipp": 81,
+  "N": 34,
   "V": 42,
   "P": 2,
   "FN": 2,
   "FV": 1,
-  "egyseg": -1.765,
-  "tet_ft": 400000,
-  "profit_ft": -8825,
-  "vissza_ft": 391175
+  "egyseg": -0.655,
+  "tet_ft": 405000,
+  "profit_ft": -3275,
+  "vissza_ft": 401725
  },
  "honapok": [
   {
    "honap": "2026-11",
-   "tipp": 80,
-   "N": 33,
+   "tipp": 81,
+   "N": 34,
    "V": 42,
    "P": 2,
    "FN": 2,
    "FV": 1,
-   "egyseg": -1.765,
-   "tet_ft": 400000,
-   "profit_ft": -8825,
-   "vissza_ft": 391175
+   "egyseg": -0.655,
+   "tet_ft": 405000,
+   "profit_ft": -3275,
+   "vissza_ft": 401725
   }
  ],
  "tippek": [
+  {
+   "d": "2026-11-26",
+   "t": "19:00",
+   "m": "Balingen-Weilstetten - Lemgo",
+   "s": "🤾 Kézilabda",
+   "p": "Hendikep",
+   "tip": "Balingen-Weilstetten +1,5",
+   "o": 2.11,
+   "r": "N"
+  },
   {
    "d": "2026-11-26",
    "t": "04:10",
