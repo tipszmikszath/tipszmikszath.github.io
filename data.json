@@ -1,35 +1,45 @@
 {
- "frissitve": "2026-11-27 22:15",
+ "frissitve": "2026-11-27 23:15",
  "pelda_tet": 5000,
  "fuggo": 0,
  "osszes": {
-  "tipp": 83,
+  "tipp": 84,
   "N": 35,
-  "V": 43,
+  "V": 44,
   "P": 2,
   "FN": 2,
   "FV": 1,
-  "egyseg": 0.165,
-  "tet_ft": 415000,
-  "profit_ft": 825,
+  "egyseg": -0.835,
+  "tet_ft": 420000,
+  "profit_ft": -4175,
   "vissza_ft": 415825
  },
  "honapok": [
   {
    "honap": "2026-11",
-   "tipp": 83,
+   "tipp": 84,
    "N": 35,
-   "V": 43,
+   "V": 44,
    "P": 2,
    "FN": 2,
    "FV": 1,
-   "egyseg": 0.165,
-   "tet_ft": 415000,
-   "profit_ft": 825,
+   "egyseg": -0.835,
+   "tet_ft": 420000,
+   "profit_ft": -4175,
    "vissza_ft": 415825
   }
  ],
  "tippek": [
+  {
+   "d": "2026-11-27",
+   "t": "20:30",
+   "m": "Newport City - Pontardawe",
+   "s": "⚽ Foci",
+   "p": "Mérkőzés győztese (1X2)",
+   "tip": "Newport City",
+   "o": 1.92,
+   "r": "V"
+  },
   {
    "d": "2026-11-27",
    "t": "19:00",
