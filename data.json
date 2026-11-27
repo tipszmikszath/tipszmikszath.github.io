@@ -1,35 +1,45 @@
 {
- "frissitve": "2026-11-27 19:15",
+ "frissitve": "2026-11-27 20:15",
  "pelda_tet": 5000,
  "fuggo": 0,
  "osszes": {
-  "tipp": 81,
+  "tipp": 82,
   "N": 34,
-  "V": 42,
+  "V": 43,
   "P": 2,
   "FN": 2,
   "FV": 1,
-  "egyseg": -0.655,
-  "tet_ft": 405000,
-  "profit_ft": -3275,
+  "egyseg": -1.655,
+  "tet_ft": 410000,
+  "profit_ft": -8275,
   "vissza_ft": 401725
  },
  "honapok": [
   {
    "honap": "2026-11",
-   "tipp": 81,
+   "tipp": 82,
    "N": 34,
-   "V": 42,
+   "V": 43,
    "P": 2,
    "FN": 2,
    "FV": 1,
-   "egyseg": -0.655,
-   "tet_ft": 405000,
-   "profit_ft": -3275,
+   "egyseg": -1.655,
+   "tet_ft": 410000,
+   "profit_ft": -8275,
    "vissza_ft": 401725
   }
  ],
  "tippek": [
+  {
+   "d": "2026-11-27",
+   "t": "17:00",
+   "m": "Al-Gharraf SC - Al-Mosul",
+   "s": "⚽ Foci",
+   "p": "Mérkőzés győztese (1X2)",
+   "tip": "Döntetlen",
+   "o": 2.64,
+   "r": "V"
+  },
   {
    "d": "2026-11-26",
    "t": "19:00",
