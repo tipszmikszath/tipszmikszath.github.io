@@ -1,35 +1,45 @@
 {
- "frissitve": "2026-11-27 20:15",
+ "frissitve": "2026-11-27 22:15",
  "pelda_tet": 5000,
  "fuggo": 0,
  "osszes": {
-  "tipp": 82,
-  "N": 34,
+  "tipp": 83,
+  "N": 35,
   "V": 43,
   "P": 2,
   "FN": 2,
   "FV": 1,
-  "egyseg": -1.655,
-  "tet_ft": 410000,
-  "profit_ft": -8275,
-  "vissza_ft": 401725
+  "egyseg": 0.165,
+  "tet_ft": 415000,
+  "profit_ft": 825,
+  "vissza_ft": 415825
  },
  "honapok": [
   {
    "honap": "2026-11",
-   "tipp": 82,
-   "N": 34,
+   "tipp": 83,
+   "N": 35,
    "V": 43,
    "P": 2,
    "FN": 2,
    "FV": 1,
-   "egyseg": -1.655,
-   "tet_ft": 410000,
-   "profit_ft": -8275,
-   "vissza_ft": 401725
+   "egyseg": 0.165,
+   "tet_ft": 415000,
+   "profit_ft": 825,
+   "vissza_ft": 415825
   }
  ],
  "tippek": [
+  {
+   "d": "2026-11-27",
+   "t": "19:00",
+   "m": "Velez - River Plate",
+   "s": "🏐 Röplabda",
+   "p": "Mérkőzés győztese",
+   "tip": "Velez",
+   "o": 2.82,
+   "r": "N"
+  },
   {
    "d": "2026-11-27",
    "t": "17:00",
