@@ -1,35 +1,45 @@
 {
- "frissitve": "2026-11-28 17:15",
+ "frissitve": "2026-11-28 18:15",
  "pelda_tet": 5000,
  "fuggo": 0,
  "osszes": {
-  "tipp": 88,
-  "N": 37,
+  "tipp": 89,
+  "N": 38,
   "V": 46,
   "P": 2,
   "FN": 2,
   "FV": 1,
-  "egyseg": 0.565,
-  "tet_ft": 440000,
-  "profit_ft": 2825,
-  "vissza_ft": 442825
+  "egyseg": 1.595,
+  "tet_ft": 445000,
+  "profit_ft": 7975,
+  "vissza_ft": 452975
  },
  "honapok": [
   {
    "honap": "2026-11",
-   "tipp": 88,
-   "N": 37,
+   "tipp": 89,
+   "N": 38,
    "V": 46,
    "P": 2,
    "FN": 2,
    "FV": 1,
-   "egyseg": 0.565,
-   "tet_ft": 440000,
-   "profit_ft": 2825,
-   "vissza_ft": 442825
+   "egyseg": 1.595,
+   "tet_ft": 445000,
+   "profit_ft": 7975,
+   "vissza_ft": 452975
   }
  ],
  "tippek": [
+  {
+   "d": "2026-11-28",
+   "t": "15:00",
+   "m": "Carrarese - Juve Stabia",
+   "s": "⚽ Foci",
+   "p": "Mérkőzés győztese (1X2)",
+   "tip": "Carrarese",
+   "o": 2.03,
+   "r": "N"
+  },
   {
    "d": "2026-11-28",
    "t": "14:00",
