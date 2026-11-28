@@ -1,35 +1,45 @@
 {
- "frissitve": "2026-11-28 16:15",
+ "frissitve": "2026-11-28 17:15",
  "pelda_tet": 5000,
  "fuggo": 0,
  "osszes": {
-  "tipp": 87,
+  "tipp": 88,
   "N": 37,
-  "V": 45,
+  "V": 46,
   "P": 2,
   "FN": 2,
   "FV": 1,
-  "egyseg": 1.565,
-  "tet_ft": 435000,
-  "profit_ft": 7825,
+  "egyseg": 0.565,
+  "tet_ft": 440000,
+  "profit_ft": 2825,
   "vissza_ft": 442825
  },
  "honapok": [
   {
    "honap": "2026-11",
-   "tipp": 87,
+   "tipp": 88,
    "N": 37,
-   "V": 45,
+   "V": 46,
    "P": 2,
    "FN": 2,
    "FV": 1,
-   "egyseg": 1.565,
-   "tet_ft": 435000,
-   "profit_ft": 7825,
+   "egyseg": 0.565,
+   "tet_ft": 440000,
+   "profit_ft": 2825,
    "vissza_ft": 442825
   }
  ],
  "tippek": [
+  {
+   "d": "2026-11-28",
+   "t": "14:00",
+   "m": "Tremblay - Red Star",
+   "s": "⚽ Foci",
+   "p": "Ázsiai hendikep",
+   "tip": "Red Star -2,25",
+   "o": 1.88,
+   "r": "V"
+  },
   {
    "d": "2026-11-28",
    "t": "13:30",
