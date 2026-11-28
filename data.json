@@ -1,35 +1,45 @@
 {
- "frissitve": "2026-11-28 18:15",
+ "frissitve": "2026-11-28 19:15",
  "pelda_tet": 5000,
  "fuggo": 0,
  "osszes": {
-  "tipp": 89,
-  "N": 38,
+  "tipp": 90,
+  "N": 39,
   "V": 46,
   "P": 2,
   "FN": 2,
   "FV": 1,
-  "egyseg": 1.595,
-  "tet_ft": 445000,
-  "profit_ft": 7975,
-  "vissza_ft": 452975
+  "egyseg": 2.635,
+  "tet_ft": 450000,
+  "profit_ft": 13175,
+  "vissza_ft": 463175
  },
  "honapok": [
   {
    "honap": "2026-11",
-   "tipp": 89,
-   "N": 38,
+   "tipp": 90,
+   "N": 39,
    "V": 46,
    "P": 2,
    "FN": 2,
    "FV": 1,
-   "egyseg": 1.595,
-   "tet_ft": 445000,
-   "profit_ft": 7975,
-   "vissza_ft": 452975
+   "egyseg": 2.635,
+   "tet_ft": 450000,
+   "profit_ft": 13175,
+   "vissza_ft": 463175
   }
  ],
  "tippek": [
+  {
+   "d": "2026-11-28",
+   "t": "16:00",
+   "m": "Queen of South - Dunfermline",
+   "s": "⚽ Foci",
+   "p": "Ázsiai hendikep",
+   "tip": "Dunfermline -1,75",
+   "o": 2.04,
+   "r": "N"
+  },
   {
    "d": "2026-11-28",
    "t": "15:00",
