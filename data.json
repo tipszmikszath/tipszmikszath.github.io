@@ -1,35 +1,45 @@
 {
- "frissitve": "2026-11-28 04:15",
+ "frissitve": "2026-11-28 05:15",
  "pelda_tet": 5000,
  "fuggo": 0,
  "osszes": {
-  "tipp": 84,
-  "N": 35,
+  "tipp": 85,
+  "N": 36,
   "V": 44,
   "P": 2,
   "FN": 2,
   "FV": 1,
-  "egyseg": -0.835,
-  "tet_ft": 420000,
-  "profit_ft": -4175,
-  "vissza_ft": 415825
+  "egyseg": 0.825,
+  "tet_ft": 425000,
+  "profit_ft": 4125,
+  "vissza_ft": 429125
  },
  "honapok": [
   {
    "honap": "2026-11",
-   "tipp": 84,
-   "N": 35,
+   "tipp": 85,
+   "N": 36,
    "V": 44,
    "P": 2,
    "FN": 2,
    "FV": 1,
-   "egyseg": -0.835,
-   "tet_ft": 420000,
-   "profit_ft": -4175,
-   "vissza_ft": 415825
+   "egyseg": 0.825,
+   "tet_ft": 425000,
+   "profit_ft": 4125,
+   "vissza_ft": 429125
   }
  ],
  "tippek": [
+  {
+   "d": "2026-11-28",
+   "t": "02:00",
+   "m": "Columbus - Inter Miami",
+   "s": "⚽ Foci",
+   "p": "Mérkőzés győztese (1X2)",
+   "tip": "Columbus",
+   "o": 2.66,
+   "r": "N"
+  },
   {
    "d": "2026-11-27",
    "t": "20:30",
