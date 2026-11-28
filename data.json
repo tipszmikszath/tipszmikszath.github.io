@@ -1,35 +1,45 @@
 {
- "frissitve": "2026-11-28 19:15",
+ "frissitve": "2026-11-28 20:15",
  "pelda_tet": 5000,
  "fuggo": 0,
  "osszes": {
-  "tipp": 90,
-  "N": 39,
+  "tipp": 91,
+  "N": 40,
   "V": 46,
   "P": 2,
   "FN": 2,
   "FV": 1,
-  "egyseg": 2.635,
-  "tet_ft": 450000,
-  "profit_ft": 13175,
-  "vissza_ft": 463175
+  "egyseg": 3.355,
+  "tet_ft": 455000,
+  "profit_ft": 16775,
+  "vissza_ft": 471775
  },
  "honapok": [
   {
    "honap": "2026-11",
-   "tipp": 90,
-   "N": 39,
+   "tipp": 91,
+   "N": 40,
    "V": 46,
    "P": 2,
    "FN": 2,
    "FV": 1,
-   "egyseg": 2.635,
-   "tet_ft": 450000,
-   "profit_ft": 13175,
-   "vissza_ft": 463175
+   "egyseg": 3.355,
+   "tet_ft": 455000,
+   "profit_ft": 16775,
+   "vissza_ft": 471775
   }
  ],
  "tippek": [
+  {
+   "d": "2026-11-28",
+   "t": "17:00",
+   "m": "Pribram - Brno",
+   "s": "🏐 Röplabda",
+   "p": "Mérkőzés győztese",
+   "tip": "Brno",
+   "o": 1.72,
+   "r": "N"
+  },
   {
    "d": "2026-11-28",
    "t": "16:00",
