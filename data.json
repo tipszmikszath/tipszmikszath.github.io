@@ -1,35 +1,55 @@
 {
- "frissitve": "2026-11-28 15:15",
+ "frissitve": "2026-11-28 16:15",
  "pelda_tet": 5000,
  "fuggo": 0,
  "osszes": {
-  "tipp": 85,
-  "N": 36,
-  "V": 44,
+  "tipp": 87,
+  "N": 37,
+  "V": 45,
   "P": 2,
   "FN": 2,
   "FV": 1,
-  "egyseg": 0.825,
-  "tet_ft": 425000,
-  "profit_ft": 4125,
-  "vissza_ft": 429125
+  "egyseg": 1.565,
+  "tet_ft": 435000,
+  "profit_ft": 7825,
+  "vissza_ft": 442825
  },
  "honapok": [
   {
    "honap": "2026-11",
-   "tipp": 85,
-   "N": 36,
-   "V": 44,
+   "tipp": 87,
+   "N": 37,
+   "V": 45,
    "P": 2,
    "FN": 2,
    "FV": 1,
-   "egyseg": 0.825,
-   "tet_ft": 425000,
-   "profit_ft": 4125,
-   "vissza_ft": 429125
+   "egyseg": 1.565,
+   "tet_ft": 435000,
+   "profit_ft": 7825,
+   "vissza_ft": 442825
   }
  ],
  "tippek": [
+  {
+   "d": "2026-11-28",
+   "t": "13:30",
+   "m": "Vora - Teuta Durres",
+   "s": "⚽ Foci",
+   "p": "Gólszám 2,5",
+   "tip": "Kevesebb, mint 2,5",
+   "o": 1.92,
+   "r": "V"
+  },
+  {
+   "d": "2026-11-28",
+   "t": "13:30",
+   "m": "Sloga Doboj - Radnik Bijeljina",
+   "s": "⚽ Foci",
+   "p": "Mérkőzés győztese (1X2)",
+   "tip": "Radnik Bijeljina",
+   "o": 2.74,
+   "r": "N"
+  },
   {
    "d": "2026-11-28",
    "t": "02:00",
